@@ -30,3 +30,5 @@ Docker
 Установленные Docker и Docker Compose
 
 Также приложены тесты, покрытие 96%
+
+Чтобы запустить тесты: coverage run -m pytest tests/ -v
